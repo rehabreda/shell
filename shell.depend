@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508880752 source:/home/rehab/Desktop/shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<pthread.h>
+	<fcntl.h>
+	<sys/wait.h>
+	<string.h>
+

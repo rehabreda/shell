@@ -1,0 +1,13 @@
+bin
+main.c
+obj
+p
+pend
+shell
+shell.cbp
+shell.depend
+shell.layout
+test.txt
+x
+y
+yout

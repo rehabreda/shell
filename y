@@ -1,0 +1,12 @@
+bin
+main.c
+obj
+p
+pend
+shell
+shell.cbp
+shell.depend
+shell.layout
+x
+y
+yout
